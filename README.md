@@ -13,8 +13,8 @@
 
 | Платформа | Файл |
 |---|---|
-| 🪟 **Windows**, без установки | [Navella-Portable.exe](https://github.com/GallonNnnn/Navella-download/releases/latest) |
-| 🪟 **Windows**, установщик | [Navella-Setup.exe](https://github.com/GallonNnnn/Navella-download/releases/latest) |
+| 🪟 **Windows**, без установки | [Navella-Portable.exe](https://github.com/GallonNnnn/Navella-download/releases/latest/download/Navella-Portable.exe) |
+| 🪟 **Windows**, установщик | [Navella-Setup.exe](https://github.com/GallonNnnn/Navella-download/releases/latest/download/Navella-Setup.exe) |
 | 🤖 **Android** | [Navella-beta.apk](https://github.com/GallonNnnn/Navella-download/releases/latest/download/Navella-beta.apk) |
 
 Все версии и история обновлений: **[Releases](https://github.com/GallonNnnn/Navella-download/releases)**
